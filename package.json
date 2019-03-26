@@ -1,0 +1,23 @@
+{
+  "name": "fda-cassandra-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centralizedinc/fda-cassandra-core.git"
+  },
+  "author": "abalita@centralizedinc.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centralizedinc/fda-cassandra-core/issues"
+  },
+  "homepage": "https://github.com/centralizedinc/fda-cassandra-core#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
+}
